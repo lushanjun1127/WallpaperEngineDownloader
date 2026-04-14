@@ -1,8 +1,9 @@
-# Wallpaper Engine Workshop Downloader
+# Wallpaper Engine Workshop Downloader / WallpaperEngineDownloader
 
 [中文](README_zh.md)
 
 A workshop download tool for Wallpaper Engine.
+Wallpaper Engine 壁纸下载器
 
 ## Functions  
 
