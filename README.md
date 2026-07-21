@@ -14,7 +14,7 @@
 ---
 
 ## 📦 Dependencies / 运行依赖
-*   **Runtime**: [.NET 8.0](https://microsoft.com) / 请预先安装 `.NET 8.0`.
+*   **Runtime**: [.NET 9.0](https://microsoft.com) / 请预先安装 `.NET 9.0`.
 *   **Core**: Powered by [DepotDownloaderMod](https://github.com) / 基于该项目技术开发.
 
 ---
