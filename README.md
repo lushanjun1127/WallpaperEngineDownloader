@@ -1,30 +1,31 @@
-# Wallpaper Engine Workshop Downloader / WallpaperEngineDownloader
+# 🪂 PaperDrop - Wallpaper Engine Workshop Downloader
 
-[中文](README_zh.md)
+<p align="center">
+  <strong>An elegant, account-free Steam workshop downloader for Wallpaper Engine.</strong><br>
+  一款无需登录 Steam 账号、像 AirDrop 一样简单高效的 Wallpaper Engine 创意工坊壁纸下载器。
+</p>
 
-A workshop download tool for Wallpaper Engine.
-Wallpaper Engine 壁纸下载器
+---
 
-## Functions  
+## ✨ Features / 功能特性
+*   **Account-Free & One-Click**: Download Wallpaper Engine items without logging in; simply paste the URL to drop them into your local folder.
+*   **免登录与一键直存**：无需登录 Steam，即可一键将创意工坊壁纸下载至本地目录。
 
-* Automatically the workshop item for Wallpaper Engine without your own Steam account.
+---
 
-## Dependies  
+## 📦 Dependencies / 运行依赖
+*   **Runtime**: [.NET 8.0](https://microsoft.com) / 请预先安装 `.NET 8.0`.
+*   **Core**: Powered by [DepotDownloaderMod](https://github.com) / 基于该项目技术开发.
 
-* <https://github.com/oureveryday/DepotDownloaderMod>
+---
 
-## Usage  
+## 🚀 Usage / 使用指南
+1.  **Copy URL**: From the [Steam Workshop](https://steamcommunity.com) / 复制创意工坊壁纸链接.
+2.  **Run**: Execute `PaperDrop_en.exe` (or `_zh.exe`) and paste the URL / 运行程序并粘贴链接.
+3.  **Download**: Choose path (including `\projects\myprojects`) / 选择包含 `\projects\myprojects` 的路径进行下载.
 
- * Please install [.NET 8.0 Runtime](https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=8.0.0&arch=x64&rid=win10-x64) first.
+---
 
- 1. Browse the workshop item you like in <https://steamcommunity.com/app/431960/workshop/>
-
- 2. Copy the URL of the workshop item you like. For example, `https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890`
-
- 3. Run `WallpaperDownloader_en.exe` (Enginsh) or `WallpaperDownloader_zh.exe` (Chiense) and paste the workshop item URL into item box.
-
- 4. Select the wallpaper engine file path (with folder `\projects\myprojects` included) and click the `Download` button.
-
-## Bugs  
-
-* For bugs please report in issues.
+## 🐛 Feedback & License / 反馈与授权
+*   Report bugs in [Issues](https://github.com) / 提交建议至 [Issues](https://github.com).
+*   Licensed under [MIT](LICENSE) / 基于 [MIT](LICENSE) 开源.
